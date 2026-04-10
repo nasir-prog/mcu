@@ -10,7 +10,7 @@ while (1)
 gpio_put(LED_PIN, 1);
 sleep_ms(1000);
 gpio_put(LED_PIN, 0);
-slepp_ms(500);
+sleep_ms(500);
 }
 
 

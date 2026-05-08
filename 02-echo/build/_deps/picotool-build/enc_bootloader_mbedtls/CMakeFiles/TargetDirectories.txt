@@ -1,0 +1,2 @@
+/home/nasil/Repositories/pico/mcu/02-echo/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
+/home/nasil/Repositories/pico/mcu/02-echo/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir

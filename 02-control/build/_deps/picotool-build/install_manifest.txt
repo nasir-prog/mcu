@@ -1,0 +1,7 @@
+/home/nasil/Repositories/pico/mcu/02-control/build/_deps/picotool/picotool
+/home/nasil/Repositories/pico/mcu/02-control/build/_deps/picotool/picotoolTargets.cmake
+/home/nasil/Repositories/pico/mcu/02-control/build/_deps/picotool/picotoolTargets-release.cmake
+/home/nasil/Repositories/pico/mcu/02-control/build/_deps/picotool/picotoolConfig.cmake
+/home/nasil/Repositories/pico/mcu/02-control/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/nasil/Repositories/pico/mcu/02-control/build/_deps/picotool/enc_bootloader.elf
+/home/nasil/Repositories/pico/mcu/02-control/build/_deps/picotool/enc_bootloader_mbedtls.elf

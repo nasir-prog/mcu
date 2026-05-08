@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/nasil/Repositories/pico/mcu/02-control/build/CMakeFiles/picotoolBuild
+/home/nasil/Repositories/pico/mcu/02-control/build/CMakeFiles/picotoolBuild.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/CMakeFiles/picotoolBuild-complete.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/nasil/Repositories/pico/mcu/02-control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
